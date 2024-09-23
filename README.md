@@ -4,7 +4,7 @@
 - 👩🏻‍🎓 Degree in General and Applied Phonetics (Speech Technologies), Saint-Petersburg State University
 - 👩🏻‍💻 Love Python 🐍 Intersted in ML, Neural Networks and Backend.
 - 📱 You can contact me via:
-    1. [anastasiia.povolotskaia\@gmail.com](mailto:anastasiia.povolotskaia@gmail.com)
+    1. [anastasiia.povolotskaia@gmail.com](mailto:anastasiia.povolotskaia@gmail.com)
     2. [Telegram](https://t.me/Dobby_is_a_free_elf)
 
 ### Languages that I use
