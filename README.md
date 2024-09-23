@@ -36,21 +36,21 @@
 </p>
 
 ### Further to learn
-#### ML and NN frameworks:
+#### - ML and NN frameworks:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,selenium" />
   </a>
 </p>
 
-#### Backend technologies
+#### - Backend technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flask,selenium" />
   </a>
 </p>
 
-#### DBs
+#### - DBs
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redis,mongodb" />
