@@ -36,14 +36,15 @@
 </p>
 
 ### Further to learn
-#### - ML and NN frameworks:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
-</p>
+|#### ML and NN frameworks                                   | #### Backend technologies                                              |
+|------------------------------------------------------------|------------------------------------------------------------------------|
+|<p align="left">                                            |<p align="left">                                                        |
+| <a href="https://skillicons.dev">                          |  <a href="https://skillicons.dev">                                     |
+|   <img src="https://skillicons.dev/icons?i=tensorflow" />  |    <img src="https://skillicons.dev/icons?i=django,flask,selenium" />  |
+| </a>                                                       |  </a>                                                                  |
+|</p>                                                        |</p>                                                                    |
 
-#### - Backend technologies
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flask,selenium" />
