@@ -8,7 +8,7 @@
     2. [Telegram](https://t.me/Dobby_is_a_free_elf)
 
 ### Languages that I use
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
