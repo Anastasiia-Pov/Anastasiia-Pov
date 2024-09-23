@@ -1,16 +1,58 @@
-## Hi there 👋
+## Hi, I'm Anastasiia 👋
 
-<!--
-**Anastasiia-Pov/Anastasiia-Pov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌏 Located in Russia: Saint-Petersburg/Chelyabinsk
+- 👩🏻‍🎓 Degree in General and Applied Phonetics (Speech Technologies), Saint-Petersburg State University
+- 👩🏻‍💻 Love Python 🐍 Intersted in ML, Neural Networks and Backend.
+- 📱 You can contact me via:
+    1. [mail](mailto:anastasiia.povolotskaia@gmail.com)
+    2. [Telegram](https://t.me/Dobby_is_a_free_elf)
 
-Here are some ideas to get you started:
+### Languages that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ML and Neural Networks frameworks that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+  </a>
+</p>
+
+### Backend technologies that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,postman" />
+  </a>
+</p>
+
+### DBs that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  </a>
+</p>
+
+### Further to learn
+#### ML and NN frameworks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,selenium" />
+  </a>
+</p>
+
+#### Backend technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,selenium" />
+  </a>
+</p>
+
+#### DBs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,mongodb" />
+  </a>
+</p>
