@@ -15,21 +15,21 @@
 </p>
 
 ### ML and Neural Networks frameworks that I use
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
   </a>
 </p>
 
 ### Backend technologies that I use
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,postman" />
   </a>
 </p>
 
 ### DBs that I use
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
   </a>
@@ -37,21 +37,21 @@
 
 ### Further to learn
 #### ML and NN frameworks:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,selenium" />
   </a>
 </p>
 
 #### Backend technologies
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flask,selenium" />
   </a>
 </p>
 
 #### DBs
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redis,mongodb" />
   </a>
