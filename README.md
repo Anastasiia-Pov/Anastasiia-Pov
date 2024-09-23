@@ -36,24 +36,11 @@
 </p>
 
 ### Further to learn
-|#### ML and NN frameworks                                   | #### Backend technologies                                              |
-|------------------------------------------------------------|------------------------------------------------------------------------|
-|<p align="left">                                            |<p align="left">                                                        |
-| <a href="https://skillicons.dev">                          |  <a href="https://skillicons.dev">                                     |
-|   <img src="https://skillicons.dev/icons?i=tensorflow" />  |    <img src="https://skillicons.dev/icons?i=django,flask,selenium" />  |
-| </a>                                                       |  </a>                                                                  |
-|</p>                                                        |</p>                                                                    |
+|#### ML and NN frameworks                                   | #### Backend technologies                                              |#### DBs
+|------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------|
+|<p align="left">                                            |<p align="left">                                                        |<p align="left">                                              |
+| <a href="https://skillicons.dev">                          |  <a href="https://skillicons.dev">                                     |  <a href="https://skillicons.dev">                           |
+|   <img src="https://skillicons.dev/icons?i=tensorflow" />  |    <img src="https://skillicons.dev/icons?i=django,flask,selenium" />  |    <img src="https://skillicons.dev/icons?i=redis,mongodb" />|
+| </a>                                                       |  </a>                                                                  |  </a>                                                        |
+|</p>                                                        |</p>                                                                    |</p>                                                          |
 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,selenium" />
-  </a>
-</p>
-
-#### - DBs
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb" />
-  </a>
-</p>
