@@ -36,7 +36,7 @@
 </p>
 
 ### Further to learn
-|#### ML and NN frameworks                                   | #### Backend technologies                                              |#### DBs
+| ML and NN frameworks                                       | Backend technologies                                                   | DBs
 |------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------|
 |<p align="left">                                            |<p align="left">                                                        |<p align="left">                                              |
 | <a href="https://skillicons.dev">                          |  <a href="https://skillicons.dev">                                     |  <a href="https://skillicons.dev">                           |
