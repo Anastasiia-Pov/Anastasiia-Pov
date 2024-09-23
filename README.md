@@ -39,7 +39,7 @@
 #### - ML and NN frameworks:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,selenium" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
 </p>
 
