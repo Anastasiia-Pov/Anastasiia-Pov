@@ -31,14 +31,14 @@
 ### DBs that I use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
   </a>
 </p>
 
 ### Further to learn
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tensorflow,django,flask,selenium,redis,mongodb" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,django,flask,selenium,redis" />
     </a> 
 </p>
 
