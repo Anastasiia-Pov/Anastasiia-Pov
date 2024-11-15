@@ -1,6 +1,6 @@
 ## Hi, I'm Anastasiia 👋
 
-### <a href="mailto:YourEmail@gmail.com">![anastasiia.povolotskaia@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> | <a href="<t.me/Dobby_is_a_free_elf>">![Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+### <a href="mailto:YourEmail@gmail.com">![anastasiia.povolotskaia@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<t.me/Dobby_is_a_free_elf>">![Telegram]((https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white))</a>
 t.me/Dobby_is_a_free_elf
 - 🌏 Located in Russia: Saint-Petersburg/Chelyabinsk
 - 👩🏻‍🎓 Degree in General and Applied Phonetics (Speech Technologies), Saint-Petersburg State University
