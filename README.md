@@ -1,5 +1,7 @@
 ## Hi, I'm Anastasiia 👋
 
+### <a href="mailto:YourEmail@gmail.com">![anastasiia.povolotskaia@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 - 🌏 Located in Russia: Saint-Petersburg/Chelyabinsk
 - 👩🏻‍🎓 Degree in General and Applied Phonetics (Speech Technologies), Saint-Petersburg State University
 - 👩🏻‍💻 Love Python 🐍 Intersted in ML, Neural Networks and Backend.
