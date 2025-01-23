@@ -4,7 +4,7 @@
 
 - 🌏 Located in Russia: Saint-Petersburg/Chelyabinsk
 - 👩🏻‍🎓 Degree in General and Applied Phonetics (Speech Technologies), Saint-Petersburg State University
-- 👩🏻‍💻 Love Python 🐍 Intersted in ML, Neural Networks and Backend.
+- 👩🏻‍💻 Love Python 🐍 Interested in ML, Neural Networks and Backend.
 - 📱 You can contact me via:
   - Email: anastasiia.povolotskaia@gmail.com
   - Telegram: t.me/Dobby_is_a_free_elf
